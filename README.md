@@ -1,3 +1,3 @@
 # JSDrumKit
 
-demo: mohdhussein.net/jsdrumkit
+demo: https://mohdhussein.net/jsdrumkit
