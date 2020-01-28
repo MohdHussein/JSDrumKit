@@ -1,5 +1,5 @@
 # JSDrumKit
 
-Random sound effects from vine, url, etc. on keydown and onclick.
+Random sound effects from vine, SmackUrl, etc. on keydown and onclick.
 
-demo: https://mohdhussein.net/jsdrumkit
+demo: https://mohdhussein.github.io/JSDrumKit
